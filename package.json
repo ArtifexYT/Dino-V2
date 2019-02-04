@@ -4,8 +4,8 @@
     "description": "Dino is a multipurpose Discord bot with more than general common features.",
     "main": "index.js",
     "scripts": {
-        "test": "node index.js",
-        "start": "node index.js"
+        "test": "node dino.js",
+        "start": "node dino.js"
     },
     "author": "Dino Development Team",
     "dependencies": {
